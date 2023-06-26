@@ -1,6 +1,6 @@
 ## Map Animation
 
-This project demonstrates a map animation using Mapbox GL JS library. The animation moves a marker along a predefined set of bus stops between MIT and Harvard, showcasing the path between the two locations.
+This project demonstrates a real time bus tracker using Mapbox GL JS library. The animation moves a marker along a predefined set of bus stops between MIT and Harvard, showcasing the path between the two locations.
 
 ## Prerequisites
 - Mapbox Access Token: Obtain a Mapbox access token from the Mapbox website (https://www.mapbox.com/) and replace the placeholder token in the JavaScript code.
